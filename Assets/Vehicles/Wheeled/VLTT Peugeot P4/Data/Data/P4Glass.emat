@@ -1,0 +1,9 @@
+MatPBRBasic {
+ Sort translucent
+ AllowUserAlphaBias 1
+ DisableUserAphaInShadow 1
+ BCRMap "{49ED5E9DB6969DE8}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Textures/BTDF/P4Glass_BCR.edds"
+ NMOMap "{7135E50F6FE1CF76}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Textures/BTDF/P4Glass_NMO.edds"
+ GlobalMapsUVTransform MatUVTransform "{62C80D941E3353AD}" {
+ }
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "PeugeotP4"
+ GUID "62C716C53509773D"
+ TITLE "Peugeot P4"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

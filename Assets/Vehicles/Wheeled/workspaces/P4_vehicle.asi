@@ -1,0 +1,121 @@
+AnimSetInstanceSource "{62D8F908C1789B77}" {
+ Template "{59152DA4A52DF711}Assets/Vehicles/Wheeled/workspaces/P4.ast"
+ Lines {
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Brake" {
+   Resource "{941B0C551748196D}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_brake.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Clutch" {
+   Resource "{1BC27D9673D51CB6}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_clutch.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartIn" {
+   Resource "{7F65D26229A4E9FE}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_turn_on_engine_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartLoop" {
+   Resource "{CE01B0D204652F97}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_turn_on_engine_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOff" {
+   Resource "{D1846A281DDD6D19}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_light_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStop" {
+   Resource "{F3D715EA9FFB5127}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_turn_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.ShiftGear" {
+   Resource "{1E56893FC34303A9}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_shift_gear.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringExtreme" {
+   Resource "{0BC19763316EE512}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_steering_poses_extreme.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringMain" {
+   Resource "{499A1A08E09B6E68}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_steering_poses_main.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Throttle" {
+   Resource "{DE218DF84C2656F8}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_throttle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.AccelerationSpine" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.Death" {
+   Resource "{05CB1AE6680C616E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.Idle" {
+   Resource "{2D97EFF44DF00F93}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_empty.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOn" {
+   Resource "{AF73109EBED78C43}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_light_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartOut" {
+   Resource "{11C0FBAE07930EBE}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_turn_on_engine_out_on.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornIn" {
+   Resource "{66F8A3942EB480BC}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_horn_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornLoop" {
+   Resource "{8DAF36AE24356442}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_horn_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornOut" {
+   Resource "{A65EAA0C5CE028D6}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_horn_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeoff" {
+   Resource "{400FEFB51808B567}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_handbrake_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOn" {
+   Resource "{A33E3CD4A0710AB0}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_handbrake_on.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeIn" {
+   Resource "{1EEE6E53DF6A16AE}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_handbrake_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeLoop" {
+   Resource "{ABA450A7516FF34E}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_handbrake_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOut" {
+   Resource "{52B72A62C5BD4C76}Assets/Vehicles/Wheeled/M151A2/anm/v_m151a2_driver_handbrake_out.anm"
+  }
+ }
+ RBF AnimSetInstanceSourceRBFArray "{62D8F908C15B0154}" {
+ }
+}

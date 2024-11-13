@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1C0973DD4EF70ED0}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/Doors.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,5 @@
+MatPBRBasic {
+ BCRMap "{444D21DBB00F8536}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Textures/BTDF/P4_BCR.edds"
+ OpacityMap "{EEC98AE84800A980}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Textures/BTDF/P4_A.edds"
+ NMOMap "{7C959A496978D7A8}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Textures/BTDF/P4_NMO.edds"
+}

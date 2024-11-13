@@ -1,0 +1,367 @@
+AnimSetInstanceSource "{62D8F908C1786710}" {
+ Template "{59152DA4A52DF711}Assets/Vehicles/Wheeled/workspaces/P4.ast"
+ Lines {
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.AccelerationSpine" {
+   Resource "{B689A116D1AA0FA9}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_codriver_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.AccelerationSpine" {
+   Resource "{1F901E6E374D5598}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_driver_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.AccelerationSpine" {
+   Resource "{1F901E6E374D5598}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_driver_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.AccelerationSpine" {
+   Resource "{9D9890375D84D11C}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_passenger_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.AccelerationSpine" {
+   Resource "{9D9890375D84D11C}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_passenger_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.AccelerationSpine" {
+   Resource "{9D9890375D84D11C}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_passenger_acceleration_spine.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Death" {
+   Resource "{56642618981E30E4}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_death.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Death" {
+   Resource "{74A55D9FEA372BB6}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_death.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.Death" {
+   Resource "{74A55D9FEA372BB6}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_death.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.GetIn" {
+   Resource "{0EE2A197299D0ACD}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.GetIn" {
+   Resource "{A34CBDC070F619CE}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.GetIn" {
+   Resource "{BF5E1D2D87927090}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.GetIn" {
+   Resource "{F8C78E9E74D7BB25}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerR_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.GetOut" {
+   Resource "{3845966BA240AA99}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.GetOut" {
+   Resource "{357C9E292E8FD578}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.GetOut" {
+   Resource "{9AB4A1EEC8C03BF6}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.GetOut" {
+   Resource "{57005471931B18B3}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerR_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.HeadLook" {
+   Resource "{CB16B85C2B3A586D}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_aimspace.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.HeadLook" {
+   Resource "{5C9F04172529D57E}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_aimspace.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.HeadLook" {
+   Resource "{0A793F4ADA000847}anims/anm/player/layered/look/p_headlook.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.HeadLook" {
+   Resource "{3713280A51620474}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_aimspace.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.HeadLook" {
+   Resource "{3713280A51620474}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_aimspace.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.HeadLook" {
+   Resource "{0A793F4ADA000847}anims/anm/player/layered/look/p_headlook.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Idle" {
+   Resource "{EF110642E48EC979}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Idle" {
+   Resource "{823372E67DA72043}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.Idle" {
+   Resource "{C91E10E65F1E700D}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.Idle" {
+   Resource "{BC4750916390BF63}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_idle.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.SwitchIn" {
+   Resource "{D633B3513F1628FF}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_switch_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.SwitchIn" {
+   Resource "{416A211935347DB7}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_switch_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.SwitchIn" {
+   Resource "{68C9F16CC65FBD96}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_switch_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.SwitchIn" {
+   Resource "{8E4E213153F1DF4D}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_switch_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.SwitchOut" {
+   Resource "{31F303DD3258912A}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_switch_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.SwitchOut" {
+   Resource "{D0D15289A831434B}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_switch_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.SwitchOut" {
+   Resource "{C9B83BFCF6CE5A91}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_switch_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.SwitchOut" {
+   Resource "{623FD5D1B3A75E54}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_switch_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Brake" {
+   Resource "{24B3898273A43904}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_brake.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Clutch" {
+   Resource "{EFFAC63253E58F4A}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_clutch.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartIn" {
+   Resource "{6771466D73BFE43D}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_turn_on_engine_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartLoop" {
+   Resource "{E13F896FDB6720AB}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_turn_on_engine_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOn" {
+   Resource "{97458A2AC11CECFA}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_light_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStop" {
+   Resource "{CBE18F5EE030319E}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_turn_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornIn" {
+   Resource "{91C80F2436194BB0}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_horn_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornLoop" {
+   Resource "{8314C75B42F28ACD}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_horn_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HornOut" {
+   Resource "{9E6830B8232B486F}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_horn_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.ShiftGear" {
+   Resource "{FB13154145BED4EE}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_shift_gear.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringExtreme" {
+   Resource "{AA84CC60B3B0AE4F}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_steering_poses_extreme.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.SteeringMain" {
+   Resource "{F74165C31FBA393C}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_steering_poses_main.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.Throttle" {
+   Resource "{E617174C33ED3641}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_throttle.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.Idle" {
+   Resource "{59E00FADFEA10661}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_front_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.Aimspace" {
+   Resource "{DB682AB4DBC0E66A}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceFront" {
+   Resource "{BC087DE916DBD94D}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_front_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceRight" {
+   Resource "{944BEF6D839B6866}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_right_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceFrontToRight" {
+   Resource "{98DA239D1E3FECF7}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_FrontToRight_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceRightToFront" {
+   Resource "{896BEC8446B371C2}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_RightToFront_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.IdleFront" {
+   Resource "{59E00FADFEA10661}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_front_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.IdleRight" {
+   Resource "{71A39D296BE1B74A}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_right_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionFrontToRight" {
+   Resource "{E3E2C4E745FC9912}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_FrontToRight_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionRightToFront" {
+   Resource "{F2530BFE1D700427}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_RightToFront_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceFrontToLeft" {
+   Resource "{45746089CE7F193A}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_FrontToLeft_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceLeftToFront" {
+   Resource "{F93C163AB63463BD}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_LeftToFront_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.IdleLeft" {
+   Resource "{2080A5433E66C091}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_left_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionFrontToLeft" {
+   Resource "{7AB95B6F477D01AF}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_FrontToLeft_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionLeftToFront" {
+   Resource "{C6F12DDC3F367B28}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_LeftToFront_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceLeft" {
+   Resource "{0D30928BA1145446}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_left_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceRight02" {
+   Resource "{49E6A19AE11B52EC}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_right02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceRight02ToRight" {
+   Resource "{6DAC2CE8F648C956}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_Right02ToRight_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceRightToRight02" {
+   Resource "{F59B7BE6074A1728}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_RightToRight02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.IdleRight02" {
+   Resource "{BA22EFCDF18D7959}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_right02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionRight02ToRight" {
+   Resource "{402BE74D5D4C5A4B}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_Right02ToRight_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionRightToRight02" {
+   Resource "{D81CB043AC4E8435}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_RightToRight02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceLeft02" {
+   Resource "{9A80BAFB36BC51D6}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_left02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceLeft02ToLeft" {
+   Resource "{3E5E4EB342A3F490}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_Left02ToLeft_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.AimspaceLeftToLeft02" {
+   Resource "{7F2DECE094C25AB5}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_aimspace_LeftToLeft02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.IdleLeft02" {
+   Resource "{99B46F975D56F9A6}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_idle_left02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionLeft02ToLeft" {
+   Resource "{4566A9C919608175}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_Left02ToLeft_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Gunner.Default.TransitionLeftToLeft02" {
+   Resource "{04150B9ACF012F50}Assets/Weapons/HeavyWeapons/M2HB/anims/anm/p_m2_transition_LeftToLeft02_m151a2.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Death" {
+   Resource "{59DAD6CE74F2CEC3}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_death.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Death" {
+   Resource "{F474CA992D99DDC0}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_death.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.Death" {
+   Resource "{74A55D9FEA372BB6}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_death.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.LightsOff" {
+   Resource "{DF3F9BDD7B1A8396}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_light_out.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.EngineStartOut" {
+   Resource "{A8355757C54402C5}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_turn_on_engine_out_on.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeoff" {
+   Resource "{99792192B45C43DC}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_handbrake_off.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOn" {
+   Resource "{1DE5431F5F505DE4}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_handbrake_on.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.SpineBrakeHard" {
+   Resource "{7746199D4037B65F}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_hardF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.UniqueSeat.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Gunner.SpineBrakeSoft" {
+   Resource "{B8F3F974880C02B3}Assets/Vehicles/Wheeled/UAZ469/anm/p_vehicle_collision_softF.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeIn" {
+   Resource "{A0351198204B41FA}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_handbrake_in.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeLoop" {
+   Resource "{473EC540B749776E}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_handbrake_loop.anm"
+  }
+  AnimSetInstanceSource_Line "VehicleActions.Veh/Play.HandBrakeOut" {
+   Resource "{8BC1E44569E9BACD}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_handbrake_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.Wobble" {
+   Resource "{2273F9A13A6A257D}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_driver_wobbling.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.Wobble" {
+   Resource "{7FFC79A519FDE2CF}Assets/Vehicles/Wheeled/UAZ469/anm/p_UAZ469_passenger_wobbling.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousIn" {
+   Resource "{A899730B2D214855}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_unconscious_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousIdle" {
+   Resource "{B792A22ECB0E1F18}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_unconscious_loop.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.UnconsciousOut" {
+   Resource "{B5C5BBC21F65CC73}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_unconscious_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousIn" {
+   Resource "{472A20255700D599}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_unconscious_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousIdle" {
+   Resource "{E3638BB73067B8E3}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_unconscious_loop.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.UnconsciousOut" {
+   Resource "{FA570B61609C309B}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_unconscious_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousIn" {
+   Resource "{26986F3A73672F44}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_unconscious_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousIn" {
+   Resource "{C696185B577FCD30}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_unconscious_in.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousIdle" {
+   Resource "{0F391D0A64AD0526}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_unconscious_loop.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousIdle" {
+   Resource "{437F6C96EC093F5D}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_unconscious_loop.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.UnconsciousOut" {
+   Resource "{1C9706446523F1F9}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_var01_unconscious_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.UnconsciousOut" {
+   Resource "{F265714ACB5CDBC5}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passenger_unconscious_out.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_GetOut_NoDoor" {
+   Resource "{3845966BA240AA99}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.CoDriver.01_GetIn_NoDoor" {
+   Resource "{0EE2A197299D0ACD}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_codriver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_GetIn_NoDoor" {
+   Resource "{A34CBDC070F619CE}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_GetIn_NoDoor" {
+   Resource "{BF5E1D2D87927090}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_GetIn_NoDoor" {
+   Resource "{F8C78E9E74D7BB25}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerR_getIn.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.Driver.01_GetOut_NoDoor" {
+   Resource "{357C9E292E8FD578}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_driver_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerL.01_GetOut_NoDoor" {
+   Resource "{9AB4A1EEC8C03BF6}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerL_getOut.anm"
+  }
+  AnimSetInstanceSource_Line "Vehicle.PassengerR.01_GetOut_NoDoor" {
+   Resource "{57005471931B18B3}Assets/Vehicles/Wheeled/M151A2/anm/p_m151a2_passengerR_getOut.anm"
+  }
+ }
+ RBF AnimSetInstanceSourceRBFArray "{62D8F908C15E8F2F}" {
+ }
+}

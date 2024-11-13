@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{371F0359EB0FB5E8}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/P4.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

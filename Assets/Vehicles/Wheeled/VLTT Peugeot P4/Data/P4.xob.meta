@@ -1,0 +1,164 @@
+MetaFileClass {
+ Name "{4B05AB92012515C9}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/P4.xob"
+ Configurations {
+  FBXResourceClass PC {
+   ExportSkinning 1
+   MaterialAssigns {
+    MaterialAssignClass "{62C80D95CBBDE616}" {
+     SourceMaterial "Doors"
+     AssignedMaterial "{1C0973DD4EF70ED0}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/Doors.emat"
+    }
+    MaterialAssignClass "{62C80D95CBBDE63F}" {
+     SourceMaterial "P4Interior"
+     AssignedMaterial "{8B491B7355EA0B06}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/P4Interior.emat"
+    }
+    MaterialAssignClass "{62C80D95CBBDE633}" {
+     SourceMaterial "P4Glass"
+     AssignedMaterial "{07B0DC39C1FBF4DB}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/P4Glass.emat"
+    }
+    MaterialAssignClass "{62C80D95CBBDE629}" {
+     SourceMaterial "P4"
+     AssignedMaterial "{371F0359EB0FB5E8}Assets/Vehicles/Wheeled/VLTT Peugeot P4/Data/Data/P4.emat"
+    }
+   }
+   MeshParams {
+    MeshParam BackDoor {
+    }
+    MeshParam Fuel {
+    }
+    MeshParam GearShifter {
+    }
+    MeshParam Glass {
+    }
+    MeshParam HandBrake {
+    }
+    MeshParam Klaxon {
+    }
+    MeshParam Light {
+    }
+    MeshParam P4 {
+    }
+    MeshParam PreHeat {
+    }
+    MeshParam Speed {
+    }
+    MeshParam Starter {
+    }
+    MeshParam TurnIndicator {
+    }
+    MeshParam Wheel {
+    }
+    MeshParam Windshield {
+    }
+    MeshParam Wipers {
+    }
+    MeshParam Coil1 {
+    }
+    MeshParam Coil2 {
+    }
+    MeshParam Coil3 {
+    }
+    MeshParam Coil4 {
+    }
+    MeshParam Oil {
+    }
+   }
+   GeometryParams {
+    GeometryParam UBX_FG_Battery1 {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{6A7CBD6BBCFC5148}Common/Materials/Game/Plastic/plastic_6mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_FG_Battery2 {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{6A7CBD6BBCFC5148}Common/Materials/Game/Plastic/plastic_6mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_FG_Engine {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{1950188BB10D20EA}Common/Materials/Game/Metal/metal_5mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_FG_FuelTank {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{1950188BB10D20EA}Common/Materials/Game/Metal/metal_5mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_FG_Gearbox {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{1950188BB10D20EA}Common/Materials/Game/Metal/metal_5mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_MainCol_01 {
+     LayerPreset "Vehicle"
+     SurfaceProperties {
+      "{CE9253778DD8FBDE}Common/Materials/Game/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Backdoor {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{1950188BB10D20EA}Common/Materials/Game/Metal/metal_5mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Wheel {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FV_Body {
+     LayerPreset "FireView"
+     SurfaceProperties {
+      "{1950188BB10D20EA}Common/Materials/Game/Metal/metal_5mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{62C80D95C9755C45}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{62C80D95C9755A98}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{62C80D95C9755AE2}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{62C80D95C9755946}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{62C80D95C97559B7}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{62C80D95C97559F4}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}
